@@ -9,4 +9,4 @@ A template for React Native Apps
    - app.json
    - package-lock.json
    - package.json
-3. Write your components and run your app
+3. Write your components, screens and run your app with `npx expo start`

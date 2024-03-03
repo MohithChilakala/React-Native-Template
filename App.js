@@ -1,5 +1,5 @@
 import { SafeAreaView, StatusBar, StyleSheet } from 'react-native';
-import Navigation from './Navigation';
+import Navigation from './src/Navigation';
 
 export default function App() {
   return (
